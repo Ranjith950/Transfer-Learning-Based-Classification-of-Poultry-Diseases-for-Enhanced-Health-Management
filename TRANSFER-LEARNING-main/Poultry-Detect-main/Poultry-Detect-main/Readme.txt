@@ -49,7 +49,7 @@ How to Run Locally:
         pip install flask tensorflow pillow numpy
 
 3. Make sure `healthy_vs_rotten.h5` is in the project root.
-4. Start the app:
+4. Start the app:H
         python app.py
 5. Open a browser and go to:
         http://127.0.0.1:5000
@@ -65,8 +65,8 @@ Model Details:
 
 Developer Info:
 ---------------
-👩‍💻 Developed by: D RAJALAKSHMI  
-🎓 Institution: SIDDARTHA INSTITUTE OF SCIENCE AND TECHNOLOGY 
+👩‍💻 Developed by:E.RANJITH KUMAR   
+🎓 Institution: SIDDHARTH INSTITUTE OF ENGINEERING AND TECHNOLOGY 
 📅 Year: 2025  
 🌐 Tech Stack: Python, Flask, TensorFlow, HTML, CSS
 
